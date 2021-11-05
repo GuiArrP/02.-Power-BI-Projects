@@ -1,0 +1,9 @@
+Esse é um dashboard simples onde os dados foram tratados, eles apenas foram utilizados para explorar as ferramentas de extração de dados da WEB e trabalhando com os mesmos no Power BI.
+
+Obs: O dataset utilizado foi retirado da seguinte fonte:
+
+https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA
+
+Qualquer dúvida basta me enviar um email que responderei assim que possível:
+
+guilherme.apedroso@gmail.com

@@ -1,0 +1,7 @@
+Esse é um dashboard simples onde os dados não foram tratados, eles apenas foram utilizados para explorar as ferramentas de visualização do Power BI.
+
+Obs: O dataset utilizado está em anexo, portanto basta baixar o mesmo e indicar o caminho no relatório para conseguir utilizar as interações do DashBoard.
+
+Qualquer dúvida basta me enviar um email que responderei assim que possível:
+
+guilherme.apedroso@gmail.com
